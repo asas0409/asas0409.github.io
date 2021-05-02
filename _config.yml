@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 url : "https://asas0409.github.io/"
 baseurl : ""
+exclude: ['./README.md']
